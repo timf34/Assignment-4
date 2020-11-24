@@ -17,7 +17,6 @@ int main() {
 
   //setting up the linked list wiht the head at the start
   while (cin.eof() == false) {
-
     
     cin >> current_word;
 
