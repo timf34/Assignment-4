@@ -1,0 +1,2 @@
+run = "clang++-7 -o main main.cpp ; ./main < sample.txt"
+language = "C++" # optional
